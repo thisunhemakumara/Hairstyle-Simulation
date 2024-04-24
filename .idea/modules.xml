@@ -3,9 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Hairstyle-Simulation.iml" filepath="$PROJECT_DIR$/Hairstyle-Simulation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rajawali/rajawali.iml" filepath="$PROJECT_DIR$/rajawali/rajawali.iml" />
-      <module fileurl="file://$PROJECT_DIR$/stmobile/stmobile.iml" filepath="$PROJECT_DIR$/stmobile/stmobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hairstyle-Simulation.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hairstyle-Simulation.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hairstyle-Simulation.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hairstyle-Simulation.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hairstyle-Simulation.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hairstyle-Simulation.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Hairstyle-Simulation.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Hairstyle-Simulation.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rajawali/Hairstyle-Simulation.rajawali.iml" filepath="$PROJECT_DIR$/.idea/modules/rajawali/Hairstyle-Simulation.rajawali.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rajawali/Hairstyle-Simulation.rajawali.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/rajawali/Hairstyle-Simulation.rajawali.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rajawali/Hairstyle-Simulation.rajawali.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rajawali/Hairstyle-Simulation.rajawali.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rajawali/Hairstyle-Simulation.rajawali.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/rajawali/Hairstyle-Simulation.rajawali.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stmobile/Hairstyle-Simulation.stmobile.iml" filepath="$PROJECT_DIR$/.idea/modules/stmobile/Hairstyle-Simulation.stmobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stmobile/Hairstyle-Simulation.stmobile.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/stmobile/Hairstyle-Simulation.stmobile.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stmobile/Hairstyle-Simulation.stmobile.main.iml" filepath="$PROJECT_DIR$/.idea/modules/stmobile/Hairstyle-Simulation.stmobile.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stmobile/Hairstyle-Simulation.stmobile.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/stmobile/Hairstyle-Simulation.stmobile.unitTest.iml" />
     </modules>
   </component>
 </project>
