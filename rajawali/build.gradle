@@ -24,7 +24,7 @@ task jacocoTestReport(type: JacocoReport, dependsOn: 'testDebugUnitTest') {
 }
 
 android {
-    compileSdkVersion 25
+    compileSdk 25
     buildToolsVersion "25.0.2"
 
     defaultConfig {
@@ -54,7 +54,7 @@ android {
     lintOptions {
         abortOnError false
     }
-    buildToolsVersion '25.0.2'
+    buildToolsVersion '34.0.0'
 }
 
 dependencies {

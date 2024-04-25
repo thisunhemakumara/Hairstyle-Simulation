@@ -4,6 +4,58 @@
     <shared>
       <config />
     </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_ar_cam.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_cam_track.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_filter.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_ornament.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_photo.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/layout_bottom_sheet.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/layout_debug_track.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/layout_filter_menu.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/app/src/main/res/menu/menu_camera_filter.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+    </layouts>
   </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CUSTOM_FILTER" value="test" />
@@ -15,17 +67,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5244020d-ef88-435b-98ed-d698a7ad950b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/aapt_friendly_merged_manifests/debug/aapt/output-metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/aar_metadata/debug/aar-metadata.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/compiled_local_resources/debug/out/raw_blend_add_fragment_shader.glsl.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/compiled_local_resources/debug/out/raw_blend_screen_fragment_shader.glsl.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/compiled_local_resources/debug/out/raw_blur_fragment_shader.glsl.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/compiled_local_resources/debug/out/raw_color_threshold_shader.glsl.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/compiled_local_resources/debug/out/raw_copy_fragment_shader.glsl.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/compiled_local_resources/debug/out/raw_fog_fragment_shader.glsl.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/compiled_local_resources/debug/out/raw_fxaa_fragment_shader.glsl.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/compiled_local_resources/debug/out/raw_fxaa_vertex_shader.glsl.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/compiled_local_resources/debug/out/raw_grey_scale_fragment_shader.glsl.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/compiled_local_resources/debug/out/raw_minimal_vertex_shader.glsl.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/compiled_local_resources/debug/out/raw_scanline_fragment_shader.glsl.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/compiled_local_resources/debug/out/raw_sepia_fragment_shader.glsl.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/compiled_local_resources/debug/out/raw_vignette_fragment_shader.glsl.flat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/incremental/debug/packageDebugResources/merged.dir/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/incremental/debug/packageDebugResources/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/incremental/packageDebugAssets/merger.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/local_only_symbol_list/debug/R-def.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/merged_manifest/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/navigation_json/debug/navigation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/raw/blend_add_fragment_shader.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/raw/blend_screen_fragment_shader.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/raw/blur_fragment_shader.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/raw/color_threshold_shader.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/raw/copy_fragment_shader.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/raw/fog_fragment_shader.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/raw/fxaa_fragment_shader.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/raw/fxaa_vertex_shader.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/raw/grey_scale_fragment_shader.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/raw/minimal_vertex_shader.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/raw/scanline_fragment_shader.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/raw/sepia_fragment_shader.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/raw/vignette_fragment_shader.glsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/intermediates/packaged_res/debug/values/values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rajawali/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Hairstyle-Simulation.app.androidTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Hairstyle-Simulation.app.androidTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Hairstyle-Simulation.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/Hairstyle-Simulation.app.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/Hairstyle-Simulation.app.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/rajawali/Hairstyle-Simulation.rajawali.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/rajawali/Hairstyle-Simulation.rajawali.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/rajawali/Hairstyle-Simulation.rajawali.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/rajawali/Hairstyle-Simulation.rajawali.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/stmobile/Hairstyle-Simulation.stmobile.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/stmobile/Hairstyle-Simulation.stmobile.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/stmobile/Hairstyle-Simulation.stmobile.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/stmobile/Hairstyle-Simulation.stmobile.main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/jni/Application.mk" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/jni/Application.mk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/libs/armeabi-v7a/libVideoConvert.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/libs/armeabi-v7a/libVideoConvert.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/obj/local/armeabi-v7a/libVideoConvert.so" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/obj/local/armeabi-v7a/libVideoConvert.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/obj/local/armeabi-v7a/objs/VideoConvert/VideoConvert.o" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/obj/local/armeabi-v7a/objs/VideoConvert/VideoConvert.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/obj/local/armeabi-v7a/objs/VideoConvert/VideoConvert.o.d" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/obj/local/armeabi-v7a/objs/VideoConvert/VideoConvert.o.d" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/rajawali/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/rajawali/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rajawali/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rajawali/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rajawali/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rajawali/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stmobile/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/stmobile/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stmobile/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stmobile/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -3944,6 +4060,7 @@
     </panes>
   </component>
   <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -3952,12 +4069,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
-    "android.gradle.sync.needed": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
     "last_opened_file_path": "C:/Users/thisun.h/GitHub/Hairstyle-Simulation",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "project.structure.last.edited": "Dependencies",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
